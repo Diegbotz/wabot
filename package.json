@@ -1,6 +1,6 @@
 {
-  "name": "wabot-aq",
-  "version": "2.5.1",
+  "name": "AlexzaBotz",
+  "version": "3.2.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/LitRHap/wabot",
   "author": {
-    "name": "LitRHap"
+    "name": "AlexzaBotz"
   },
   "repository": {
     "type": "git",
