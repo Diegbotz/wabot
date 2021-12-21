@@ -46,7 +46,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Script : -
+│ Ig : 
+│https://www.instagram.com/invites/contact/?i=whtgba1ijz18&utm_content=l83lza5
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
