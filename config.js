@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'I hope you\'re fine'
-global.author = 'LitRHap'
+global.author = 'AlexzaBotz'
 global.multiplier = 69 // The higher, The harder levelup
 
 let chalk = require('chalk')
